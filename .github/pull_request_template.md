@@ -32,9 +32,9 @@ also know if some conditions or edge cases were not tested -->
 
 
 
-## Screenshots (optional)
+## Screenshots/Recording (optional)
 <!-- A simple screenshot of the before and after, or of the current state
-vs. your local development view -->
+vs. your local development view or a screencast of the flow which gives better context.-->
 
 
 
