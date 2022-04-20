@@ -3,7 +3,7 @@
 
 ## JIRA Ticket
 <!-- Replace the ticket number and url here -->
-[CM-1234](url)
+[CM-1234](https://commutatus.atlassian.net/browse/CM-1234)
 
 
 ## What?
