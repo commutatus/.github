@@ -2,7 +2,7 @@
 <!-- Remove any sections that are not needed before submitting the PR -->
 
 ## JIRA Ticket
-<!-- Replace the ticket number and url here -->
+<!-- Replace the ticket number here. Make sure to update both the name and the link -->
 [CM-1234](https://commutatus.atlassian.net/browse/CM-1234)
 
 
