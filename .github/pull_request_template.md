@@ -1,10 +1,6 @@
 <!-- See https://www.pullrequest.com/blog/writing-a-great-pull-request-description/ for more info -->
 <!-- Remove any sections that are not needed before submitting the PR -->
 
-## JIRA Ticket
-<!-- Replace the ticket number here. Make sure to update both the name and the link -->
-[CM-1234](https://commutatus.atlassian.net/browse/CM-1234)
-
 
 ## What?
 <!-- Explain the changes you’ve made. It doesn’t need to be fancy
