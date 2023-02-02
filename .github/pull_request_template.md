@@ -2,26 +2,26 @@
 <!-- Remove any sections that are not needed before submitting the PR -->
 
 
-## What?
+## What does this change do?
 <!-- Explain the changes you’ve made. It doesn’t need to be fancy
 and you don’t have to get too technical, yet. Just explicit prose
 on your net change will typically suffice. -->
 
 
 
-## Why?
+## Why is this change needed?
 <!-- Explain both the engineering goal and also some business
 objective that is satisfied or moved along -->
 
 
 
-## How?
+## How were the changes done?
 <!-- Use this section to draw attention to the significant design decisions
 you made -->
 
 
 
-## Testing?
+## How was testing done?
 <!-- Let the reviewer know how you tested the changes. Showing the
 results of tests you’ve run is also very helpful. Let the reviewer
 also know if some conditions or edge cases were not tested -->
